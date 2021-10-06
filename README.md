@@ -1,2 +1,2 @@
-# Exerc-cios-URI
+# Exercicios-URI
 Repositório de exercícios concluídos
