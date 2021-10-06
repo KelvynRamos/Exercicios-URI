@@ -10,7 +10,7 @@ public class Main
 	    int contador = 0;
 	    
 	     for(int i = numero; contador < 6; i++){
-	        if(i%2 == 0){
+	        if(i%2 != 0){
 	            System.out.println(i);
 	            contador++;
 	        }
